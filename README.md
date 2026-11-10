@@ -1,16 +1,14 @@
-## Hi there 👋
+## Koki Miki
+九州大学大学院 量子物理工学専攻（焦電型赤外線センサの研究）
+クラウド／インフラ領域を勉強中（AWS SAA 学習中）
 
-<!--
-**KokiMiki2358/KokiMiki2358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- **TikTok Data Pipeline & Analysis** — TikTokの公開データを自動収集し、エンゲージメントを分析・可視化（AIエージェントを活用して構築）
+  - Python / pandas / AWS Lambda / Amazon S3
+  - https://github.com/KokiMiki2358/sns-business-analysis
+- **OKI:LOCK**（JPHACKS 2026）— ベッドの圧力センサ（M5Stack）で在床を検知し、起きるまでスマホを制限する目覚ましアプリ
+  - 担当：要件定義・プレゼン・一部実装
+  - https://github.com/jphacks/fk_2603
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+Python / SQL / AWS（学習中）
